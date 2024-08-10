@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Shreejay V. Jahagirdar</h1>
-<h3 align="center">MS CS Studnet @ Stony Brook Univeristy</h3>
+<h3 align="center">Stony Brook Univeristy MS CS Grad</h3>
 
 - 📫 How to reach me **shreejay.va@gmail.com**
 
